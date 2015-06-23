@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Mapper</string>
+    <string name="title_activity_photo_mapper">Photo Mapper</string>
+    <string name="error_no_exif_data_msg">Error: This image doesn\'t contain GPS data</string>
+</resources>

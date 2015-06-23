@@ -1,0 +1,16 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=7C:26:08:AD:32:32:34:3A:EA:8C:CB:6C:4C:F1:FA:38:42:BE:3C:B1%3Borg.campbelll.android.photomapper
+
+    You can also add your credentials to an existing key, using this line:
+    7C:26:08:AD:32:32:34:3A:EA:8C:CB:6C:4C:F1:FA:38:42:BE:3C:B1;org.campbelll.android.photomapper
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDKDmZmqMpA4rxpV6xXvay2hCE9QUrcz4s</string>
+</resources>
